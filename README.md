@@ -1,4 +1,4 @@
-Talk with pepe:
+Talk with pepe: https://nicholasmcgaw.github.io/TalkingPepe
 
 Talking pepe created with Javascript.
 
